@@ -1,6 +1,6 @@
 <div align="center">
 
-# Justin Bieber · Perspective
+# Justin Bieber ·Skill
 
 <p align="center">
   <br/>
