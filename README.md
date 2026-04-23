@@ -145,7 +145,7 @@ Justin Bieber ❯ Man, I get that. People told me my whole life
 ## 安装
 
 ```bash
-npx skills add justin-bieber-perspective
+npx skills add fisher-yu-like/justin-bieber-skill
 ```
 
 然后在 Claude Code 里：
