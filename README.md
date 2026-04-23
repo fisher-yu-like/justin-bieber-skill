@@ -296,7 +296,9 @@ justin-bieber-perspective/
 ├── scripts/                              # 辅助脚本
 └── chenze-skill-README.md               # 参考的README示例
 ```
-
+### 相关作品
+[陈泽-skill](https://github.com/fisher-yu-like/chenze-skill)
+[王二-skill](https://github.com/fisher-yu-like/wang-er-skill)
 ---
 
 </div>
